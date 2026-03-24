@@ -48,4 +48,4 @@ Overall: ~72% across 120 questions. Logprob–verbalized confidence correlation:
 
 ## Companion Post
 
-[Blog post](https://tylermartin.dev/blog/llm-uncertainty) walking through the findings without the code.
+[Blog post](https://tyler-alexander-martin.com/blog/llm-uncertainty/) walking through the findings without the code.
